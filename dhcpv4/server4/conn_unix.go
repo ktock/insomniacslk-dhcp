@@ -1,4 +1,4 @@
-// +build !windows
+// +build !windows,!wasip1
 
 package server4
 
